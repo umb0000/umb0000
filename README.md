@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFfff" /> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=FFFfff" />
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=ffffff" /> 
+  </br>
   <img src="https://img.shields.io/badge/threedotjs-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=ffffff" /> 
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=FFFfff" /> 
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=jtypescript&logoColor=FFFfff" />
