@@ -44,6 +44,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
+<h3> Contact me ! </h3>
   
   <a href="mailto:sandwich1038@gmail.com">
     <img
